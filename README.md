@@ -7,7 +7,7 @@
     - [x] My "Hello, world"
     - [x] IEx
 - [ ] Basic
-    - [ ] Modules
+    - [x] Modules*
     - [ ] Functions
     - [ ] Types
     - [ ] Pattern Matching
@@ -23,3 +23,5 @@
     - [ ] Enum
     - [ ] Stream
 
+
+* Will neeed more exercises and tests
