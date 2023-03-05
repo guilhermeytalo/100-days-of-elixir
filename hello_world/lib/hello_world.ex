@@ -9,12 +9,12 @@ defmodule HelloWorld do # module name
 
   ## Examples
 
-      iex> HelloWorld.hello()
-      :world
+      # iex> HelloWorld.hello()
+      # :world
 
   """
   # function name with/whithout params
-  def hello do 
+  def hello do
     # :world
     @message # Utilização do atributo de módulo
   end
