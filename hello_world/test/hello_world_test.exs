@@ -3,6 +3,7 @@ defmodule HelloWorldTest do
   doctest HelloWorld
 
   test "greets the world" do
-    assert HelloWorld.hello() == :world
+    #Calling module and function
+    assert HelloWorld.hello() == "Hello,new world"
   end
 end

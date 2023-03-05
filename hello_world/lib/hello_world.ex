@@ -1,4 +1,5 @@
-defmodule HelloWorld do
+defmodule HelloWorld do # module name
+  @message "Hello,new world"
   @moduledoc """
   Documentation for `HelloWorld`.
   """
@@ -12,7 +13,9 @@ defmodule HelloWorld do
       :world
 
   """
-  def hello do
-    :world
+  # function name with/whithout params
+  def hello do 
+    # :world
+    @message # Utilização do atributo de módulo
   end
 end
