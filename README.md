@@ -1,11 +1,11 @@
 # 100-days-of-elixir
 
-- [ ] First Steps
-    - [ ] Language
-    - [ ] Setup
-    - [ ] Mix Tools
-    - [ ] My "Hello, world"
-    - [ ] IEx
+- [x] First Steps
+    - [x] Language
+    - [x] Setup
+    - [x] Mix Tools
+    - [x] My "Hello, world"
+    - [x] IEx
 - [ ] Basic
     - [ ] Modules
     - [ ] Functions
