@@ -1,4 +1,4 @@
-# 100-days-of-elixir
+# 100 days of elixir
 
 - [x] First Steps
     - [x] Language
